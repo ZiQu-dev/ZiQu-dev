@@ -62,6 +62,8 @@ Poniżej są wylistowane wszystkie technologie z którymi miałem styczność.
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Immich](https://img.shields.io/badge/Immich-4250AF.svg?style=for-the-badge&logo=Immich&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logo=Jellyfin&logoColor=white)
 
 ### Menedżery Pakietów:
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 

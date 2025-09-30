@@ -116,9 +116,6 @@ Poniżej są wylistowane wszystkie technologie z którymi miałem styczność.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 
-# 📊 Statystyki GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiQU-dev&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
   
 ## 💰 Możesz mi pomóc, wspierając mnie:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/mateuszkorniak)

@@ -1,121 +1,91 @@
-# Hejka 👋🏻, witaj na moim profilu :3
-Poniżej są wylistowane wszystkie technologie z którymi miałem styczność.
+# Hi, I'm Mateusz <img src="./assets/cat.gif" alt="exploding cat" height="36" />
 
-# Sociale:
+<p align="center">
+  <img src="./banner.gif" alt="Mateusz Korniak, whoami banner" width="100%" />
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/ziqu) 
-[![email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mkorniak04@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/facebook.mateuszkorniak.pl) 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/instagram.mateuszkorniak.pl) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-stack+%2B+mobile+developer;Self-hosting+everything+I+can;Clean+code%2C+clear+problems%2C+a+bit+of+chaos" alt="Typing intro" />
+</p>
 
-# Stos Technologiczny:
+<p align="center">
+  <a href="https://github.com/ZiQu-dev">
+    <img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ZiQu-dev&style=for-the-badge&color=a78bfa" alt="Profile views" />
+</p>
 
-### Języki Programowania:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+## Portfolio
 
-### Technologie Webowe:
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0.svg?style=for-the-badge&logo=Caddy&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+My portfolio lives at [mateuszkorniak.pl](https://mateuszkorniak.pl).
 
-### Frameworki i Biblioteki:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+## About me
 
-### Bazy Danych:
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+- 📍 Skawina / Kraków, studying Applied Computer Science at UKEN (Uniwersytet Komisji Edukacji Narodowej w Krakowie)
+- 💼 Full-Stack Engineer focused on Go backend and Flutter apps, currently at Holiday Polen (remote)
+- 🗣️ Polish (native), English (B2/C1)
+- 🔭 Working on: a few self-hosted projects, a Flutter client for the USOS API, and the BitFlip student club site
+- 🧪 Into: homelab, Docker, Polish-language docs, and easter eggs hidden in UIs
 
-### Kontrola Wersji i Hosting:
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Immich](https://img.shields.io/badge/Immich-4250AF.svg?style=for-the-badge&logo=Immich&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logo=Jellyfin&logoColor=white)
+## Projects
 
-### Menedżery Pakietów:
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+- **[Portfolio-Website](https://github.com/ZiQu-dev/Portfolio-Website)**: this portfolio, Astro + React islands + Tailwind 4, with a small private debt-splitting app behind `/dlugi`.
+- **UkenMate**: unofficial Flutter client for the USOS API at UKEN. Read-only by design, Polish UI, a cat walks along the nav bar on purpose. *(Private Forgejo repo.)*
+- **[BitFlip club site](https://bitflip.mateuszkorniak.pl/)**: website for a student science club at UKEN. Astro 5 with React, Postgres for event sign-ups, voting and a member panel, deployed with Docker behind Caddy.
+- **[MBM Electronics](https://www.mbm.krakow.pl/)**: new company site for a Kraków AV and IT firm (in business since 1993), built from scratch in Astro to replace WordPress. Includes SEO, 301 redirects and a contact form with its own mailer.
+- **Prawko Plus**: driving-theory learning platform. Go API with video streaming and FFmpeg transcoding, a Flutter app, and Docker Compose behind Caddy. [Demo](https://pp.mateuszkorniak.pl/)
+- **Holiday Polen**: booking system for hotels and holiday cottages, a private alternative to booking.com on the client's own domain. Go REST API with PostgreSQL. [Client site](https://holidaypolen.de/)
+- **EMPE**: Qt desktop app that visualises and records live data from two lidar devices over COM ports.
 
-### Chmura i DevOps:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+## Experience
 
-### Projektowanie i Grafika:
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+- **MBM Electronics**, Web Developer and IT administration, Kraków (09.2026 – now)
+- **Holiday Polen**, Full-Stack Engineer, remote (12.2025 – now)
+- **Aegis Consulting**, Mobile / Full-Stack, hybrid (06.2025 – 03.2026): Prawko Plus
+- **Komputrex**, IT administrator / service desk (06.2024 – 10.2024, 03.2026)
+- **ManufaqturaHR**, Front-End Developer, WordPress (04.2024 – 10.2024)
 
-### Inne Narzędzia i Użyteczności:
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) 
-![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
-![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-for-the-badge&logo=notion&logoColor=white) 
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
+## Tech stack
 
-  
-## 💰 Możesz mi pomóc, wspierając mnie:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/mateuszkorniak)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,flutter,dart,python,php,go,postgres,docker,linux,bun,git,vscode&perline=8" alt="Tech stack icons" />
+</p>
+
+<!-- Icons taken from the repos I actually work in. Check which ids exist at https://skillicons.dev -->
+
+
+## Stats
+
+<p align="center">
+  <img src="https://stats.mateuszkorniak.pl/stats-card.svg" alt="Activity and languages" width="100%" />
+</p>
+
+## Contributions: GitHub + Forgejo
+
+<p align="center">
+  <img src="https://stats.mateuszkorniak.pl/contributions-3d.svg" alt="3D contribution calendar, GitHub and Forgejo combined" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://stats.mateuszkorniak.pl/contributions-2d.svg" alt="2D contribution calendar, GitHub and Forgejo combined" width="100%" />
+</p>
+
+Both calendars count GitHub contributions plus commits from my self-hosted Forgejo, including org repos. Teal = a day where Forgejo led. Repos migrated or mirrored from GitHub are left out, so the import history doesn't inflate the numbers.
+
+## How this profile is built
+
+This repo lives on GitHub, but the build runs on my own Forgejo:
+
+- **Forgejo** is the source of truth. It runs `.forgejo/workflows/forgejo-stats.yml` on my local runner every 6 hours. The job calls the Forgejo API and GitHub, renders the calendars and the stats card with [`scripts/forgejo_stats.py`](scripts/forgejo_stats.py) (stdlib Python, no dependencies), and commits the SVGs.
+- **Images** are served from my own server (three SVG files behind Caddy), so the numbers stay fresh without pushing to GitHub.
+- **Banner** is an animated GIF, generated once locally by [`scripts/make_banner.py`](scripts/make_banner.py) and committed. It doesn't change on each run.
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateusz-korniak-0387572a2/"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://signal.me/#eu/IH9hcc39At923TmqyWF5y16GU5_tOLbLShx58WVY9CZjA27yEdlDOY03ePadOR39"><img src="https://img.shields.io/badge/Signal-09090b?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" /></a>
+  <img src="https://img.shields.io/badge/Discord-ZiQu-09090b?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ZiQu" />
+</p>

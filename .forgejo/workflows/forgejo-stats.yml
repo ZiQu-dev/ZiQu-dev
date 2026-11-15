@@ -1,0 +1,27 @@
+name: Forgejo stats
+
+# Runs on the local Forgejo runner. Repo is a push mirror to GitHub,
+# so the committed SVG reaches the GitHub profile via the mirror.
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest  # shortcut: assumes your runner has this label, rename to your runner's label
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render contributions-2d.svg and contributions-3d.svg
+        env:
+          FORGEJO_TOKEN: ${{ secrets.STATS_TOKEN }}  # Forgejo forbids secret names starting with FORGEJO_
+          GH_TOKEN: ${{ secrets.STATS_GH_TOKEN }}  # optional: GitHub PAT, empty = public-only contributions
+          IGNORE_REPOS: ${{ secrets.STATS_IGNORE_REPOS }}  # optional: comma-separated repo names to leave out of all stats
+          FORGEJO_URL: https://forgejo.mateuszkorniak.pl
+        run: python3 scripts/forgejo_stats.py .
+      - name: Commit if changed
+        run: |
+          git config user.name "forgejo-stats"
+          git config user.email "stats@localhost"
+          git add contributions-2d.svg contributions-3d.svg stats-card.svg
+          git diff --cached --quiet || (git commit -m "chore: update contribution charts" && git push)

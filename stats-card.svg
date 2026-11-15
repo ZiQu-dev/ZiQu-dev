@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><linearGradient id="nm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fafafa"/><stop offset="1" stop-color="#71717a"/></linearGradient><filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter><clipPath id="c"><rect width="860" height="260" rx="16"/></clipPath></defs>
+<rect width="860" height="260" rx="16" fill="#050507"/>
+<g clip-path="url(#c)"><circle cx="760" cy="40" r="110" fill="#a78bfa" opacity="0.22" filter="url(#soft)"/></g>
+<rect x="16.5" y="16.5" width="827" height="227" rx="12" fill="#09090b" fill-opacity="0.85" stroke="#27272a"/>
+<line x1="430.5" y1="44" x2="430.5" y2="216" stroke="#27272a"/>
+<g font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#a78bfa"><text x="48" y="52">~/Activity</text><text x="470" y="52">~/Languages</text></g>
+<text x="48" y="108" fill="url(#nm)" font-size="42" font-weight="700">873</text>
+<text x="48" y="128" fill="#71717a" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">contributions, last year</text>
+<text x="48" y="160" fill="#71717a" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">GitHub / Forgejo</text>
+<text x="390" y="160" fill="#e4e4e7" font-size="13" text-anchor="end" font-weight="600" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">368 / 505</text>
+<text x="48" y="184" fill="#71717a" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Active days</text>
+<text x="390" y="184" fill="#e4e4e7" font-size="13" text-anchor="end" font-weight="600" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">130</text>
+<text x="48" y="208" fill="#71717a" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Current streak</text>
+<text x="390" y="208" fill="#e4e4e7" font-size="13" text-anchor="end" font-weight="600" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">19 d</text>
+<text x="48" y="232" fill="#71717a" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Longest streak</text>
+<text x="390" y="232" fill="#e4e4e7" font-size="13" text-anchor="end" font-weight="600" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">19 d</text>
+<text x="470" y="87" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C++</text>
+<rect x="580" y="78" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="78" width="80.3" height="8" rx="4" fill="#a78bfa"/>
+<text x="812" y="87" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">45%</text>
+<text x="470" y="115" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">C</text>
+<rect x="580" y="106" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="106" width="73.2" height="8" rx="4" fill="#c4b5fd"/>
+<text x="812" y="115" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">41%</text>
+<text x="470" y="143" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Scheme</text>
+<rect x="580" y="134" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="134" width="8.0" height="8" rx="4" fill="#8b5cf6"/>
+<text x="812" y="143" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">4%</text>
+<text x="470" y="171" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Arc</text>
+<rect x="580" y="162" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="162" width="8.0" height="8" rx="4" fill="#d4d4d8"/>
+<text x="812" y="171" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">4%</text>
+<text x="470" y="199" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">JavaScript</text>
+<rect x="580" y="190" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="190" width="8.0" height="8" rx="4" fill="#a1a1aa"/>
+<text x="812" y="199" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">3%</text>
+<text x="470" y="227" fill="#e4e4e7" font-size="12" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Smali</text>
+<rect x="580" y="218" width="180" height="8" rx="4" fill="#27272a"/>
+<rect x="580" y="218" width="8.0" height="8" rx="4" fill="#71717a"/>
+<text x="812" y="227" fill="#71717a" font-size="11" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="end">3%</text>
+</svg>
